@@ -29,7 +29,7 @@ def main():
             print("✅ Saved successfully!\n")
 
 if __name__ == "__main__":
-    mainfrom movie_api import get_movies_by_genre
+    from movie_api import get_movies_by_genre
 
 def main():
     try:
@@ -80,4 +80,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-()
+
