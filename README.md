@@ -67,4 +67,3 @@ Since you're feeling great today!, here are some comedy movies:
 
 Want more suggestions? Tell me how you feel again or type 'exit' to stop.
 ```
-i am not
